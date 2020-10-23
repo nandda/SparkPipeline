@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.here.platform.data.client:kafka-support_2.11:0.7.29">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/here/platform/data/client/kafka-support_2.11/0.7.29/kafka-support_2.11-0.7.29.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/here/platform/data/client/kafka-support_2.11/0.7.29/kafka-support_2.11-0.7.29-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/here/platform/data/client/kafka-support_2.11/0.7.29/kafka-support_2.11-0.7.29-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
